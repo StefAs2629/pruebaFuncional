@@ -1,0 +1,16 @@
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\bin\Debug\net8.0-windows\programacionfuncionaltemporal.exe
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\bin\Debug\net8.0-windows\programacionfuncionaltemporal.deps.json
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\bin\Debug\net8.0-windows\programacionfuncionaltemporal.runtimeconfig.json
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\bin\Debug\net8.0-windows\programacionfuncionaltemporal.dll
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\bin\Debug\net8.0-windows\programacionfuncionaltemporal.pdb
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.Form1.resources
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.csproj.GenerateResource.cache
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.AssemblyInfoInputs.cache
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.AssemblyInfo.cs
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.csproj.CoreCompileInputs.cache
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.dll
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\refint\programacionfuncionaltemporal.dll
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.pdb
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\programacionfuncionaltemporal.genruntimeconfig.cache
+C:\Users\iedep\OneDrive\Documentos\NetCore\programacionfuncionaltemporal\obj\Debug\net8.0-windows\ref\programacionfuncionaltemporal.dll
